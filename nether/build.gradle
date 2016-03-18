@@ -3,7 +3,7 @@ archivesBaseName = "MetallurgyNether"
 processResources
 {
     // this will ensure that this task is redone when the versions change.
-    inputs.property "version", project.version
+    inputs.property "version", artifact_version
     inputs.property "mcversion", project.minecraft.version
 
     // replace stuff in mcmod.info, nothing else
@@ -11,7 +11,7 @@ processResources
         include 'mcmod.info'
                 
         // replace version and mcversion
-        expand 'version':project.version, 'mcversion':project.minecraft.version
+        expand 'version':artifact_version, 'mcversion':project.minecraft.version
     }
         
     // copy everything else, thats not the mcmod.info
