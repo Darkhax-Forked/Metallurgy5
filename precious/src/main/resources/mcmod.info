@@ -11,6 +11,6 @@
   "credits": "ShadowClaimer, Glassmaker",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": ["metallurgy_base"]
 }
 ]

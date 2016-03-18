@@ -78,22 +78,14 @@ subprojects {
     }
 }
 dependencies {
-    compile project(':core')
     compile project(':base')
     //compile project(':precious')
 }
 
-project (':base'){
-    dependencies {
-        compile project(':core')
-    }
-}
-
-// Disabled
 /*
 project (':precious'){
     dependencies {
-        compile project (':core')
+        compile project (':base')
     }
 }
 */
