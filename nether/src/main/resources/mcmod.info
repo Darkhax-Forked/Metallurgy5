@@ -1,7 +1,7 @@
 [
 {
   "modid": "metallurgy_nether",
-  "name": "Metallurgy Precious",
+  "name": "Metallurgy Nether",
   "description": "Metallurgy's Nether Metals",
   "version": "${version}",
   "mcversion": "${mcversion}",
