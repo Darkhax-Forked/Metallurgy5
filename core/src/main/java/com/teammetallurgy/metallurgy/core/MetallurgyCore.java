@@ -26,4 +26,5 @@ public class MetallurgyCore {
     public void postInit(FMLPostInitializationEvent event) {
 
     }
+
 }
