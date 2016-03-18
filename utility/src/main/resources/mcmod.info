@@ -1,0 +1,16 @@
+[
+{
+  "modid": "metallurgy_utility",
+  "name": "Metallurgy Utility",
+  "description": "Metallurgy's Utility Metals",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Team Metallurgy"],
+  "credits": "ShadowClaimer, Glassmaker",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["metallurgy_base"]
+}
+]

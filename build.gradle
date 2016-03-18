@@ -80,6 +80,9 @@ subprojects {
 dependencies {
     compile project(':base')
     //compile project(':precious')
+    //compile project(':nether')
+    //compile project(':fantasy')
+    //compile project(':utility')
 }
 
 /*
@@ -88,7 +91,26 @@ project (':precious'){
         compile project (':base')
     }
 }
+
+project (':nether'){
+    dependencies {
+        compile project (':base')
+    }
+}
+
+project (':fantasy'){
+    dependencies {
+        compile project (':base')
+    }
+}
+
+project (':utility'){
+    dependencies {
+        compile project (':base')
+    }
+}
 */
+
 
 processResources
 {
