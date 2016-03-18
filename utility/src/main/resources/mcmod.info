@@ -8,7 +8,7 @@
   "url": "",
   "updateUrl": "",
   "authorList": ["Team Metallurgy"],
-  "credits": "ShadowClaimer, Glassmaker",
+  "credits": "Shadowclaimer, Glassmaker",
   "logoFile": "",
   "screenshots": [],
   "dependencies": ["metallurgy_base"]
