@@ -1,0 +1,16 @@
+[
+{
+  "modid": "metallurgy_core",
+  "name": "Metallurgy Core",
+  "description": "Metallurgy's Core library",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Team Metallurgy"],
+  "credits": "ShadowClaimer, Glassmaker",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

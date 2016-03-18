@@ -1,0 +1,16 @@
+[
+{
+  "modid": "metallurgy_base",
+  "name": "Metallurgy Base",
+  "description": "Metallurgy's base metals",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Team Metallurgy"],
+  "credits": "ShadowClaimer, Glassmaker",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
